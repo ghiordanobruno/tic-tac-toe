@@ -2,7 +2,7 @@
 
 # Jogo da Velha
 
-> **Status:** Em andamento
+> **Status:** Concluído
 > **Engine / Biblioteca:** Nenhuma (somente console)
 > **Linguagem:** Python 3.11+ (somente biblioteca padrão)
 

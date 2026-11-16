@@ -2,7 +2,7 @@
 
 # Tic-Tac-Toe
 
-> **Status:** In Progress
+> **Status:** Completed
 > **Engine / Library:** None (console only)
 > **Language:** Python 3.11+ (standard library only)
 
