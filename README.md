@@ -1,3 +1,5 @@
+**🇺🇸 English** · [🇧🇷 Português (Brasil)](README-ptbr.md)
+
 # Tic-Tac-Toe
 
 > **Status:** In Progress
